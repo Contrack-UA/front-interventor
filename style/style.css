@@ -1,0 +1,19 @@
+* {
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+.navbar {
+    background-color: black !important;s
+}
+
+.mainlogo {
+  width: 30em;
+  padding: 3em 0em;
+}
+
+.boton{
+  margin: 5em 0em;
+}
+
+.subir{
+  margin: 3em 0em;
+}
